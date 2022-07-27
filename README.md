@@ -7,10 +7,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning c++
-- 👯 I’m looking to collaborate on Artificial Intellegence & Cyber Security
-- 
-- 
+- 👯 I’m looking to collaborate on Artificial Intellegence & Cyber Security 
 - 📫 How to reach me: minal58925@gmail.com
-- 
--
 
